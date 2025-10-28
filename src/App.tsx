@@ -1,11 +1,12 @@
 
 import './App.css'
+import RegistratonForm from './components/RegistrationForm'
 
 function App() {
   
   return (
     <>
-      <div>Assalam U Alaikum </div>
+      <RegistratonForm />
     </>
   )
 }
